@@ -1,7 +1,10 @@
 
-0
-java:S1220""Move this file to a named package.
-@
-java:S3457"%String contains no format specifiers.(Šª„ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Šª„ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ
+7
+java:S1220""Move this file to a named package.8¤·ÕÛù1
+G	java:S106"+Replace this use of System.out by a logger.(ŒĞæë8Ì·ÕÛù1
+L	java:S106
+"+Replace this use of System.out by a logger.(ÍŸ¬ğıÿÿÿÿ8Î·ÕÛù1
+L	java:S106"+Replace this use of System.out by a logger.(˜ˆº×ûÿÿÿÿ8Ğ·ÕÛù1
+G	java:S106"+Replace this use of System.out by a logger.(·‹È†8Ò·ÕÛù1
+L	java:S106"+Replace this use of System.out by a logger.(€…÷şÿÿÿÿ8Ö·ÕÛù1
+G	java:S106"+Replace this use of System.out by a logger.(Ÿ¡ÒÏ8Ø·ÕÛù1

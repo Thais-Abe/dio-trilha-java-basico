@@ -1,3 +1,5 @@
+package ContaBanco;
+
 public class ContaTerminal {
 
     private int numero;
